@@ -6,5 +6,6 @@ header {
 	align-items: center;
 }
 .logo-container {
-    font-size: 20px;
+    font-weight: 400;
+	margin: 5px;
 }
