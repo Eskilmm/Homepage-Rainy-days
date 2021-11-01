@@ -9,5 +9,6 @@ body {
 }
 
 header {
-       display: flex;
+     display: flex;
+    width: auto; 
 }
