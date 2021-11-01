@@ -3,6 +3,10 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.resize-logo {
+    width: 400px;
+    height: auto;
+}
 
 
 header {
