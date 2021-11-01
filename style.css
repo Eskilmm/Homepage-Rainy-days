@@ -1,7 +1,18 @@
-header {
-	display: flex;
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
-.logo-container {
-    width: 400px;
-    height: auto;
+
+
+header {
+    display: flex;
+}
+
+
+.logo-container,
+.nav-links,
+.profile,
+.cart {
+    display: flex;
 }
